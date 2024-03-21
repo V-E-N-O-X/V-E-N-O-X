@@ -1,4 +1,3 @@
-[![MasterHead](https://i.ibb.co/47GdWwM/youtube-banner-garbage-by-insurgent-delta-da3dsvg.png)](https://github.com/V-E-N-O-X)
     <h1 align="center"></h1>
   </a>
 </p>
