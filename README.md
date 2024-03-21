@@ -1,4 +1,4 @@
-    <h1 align="center"></h1>
+<h1 align="center"></h1>
   </a>
 </p>
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
--📑  I’m currently working on [**wabots**]
+  -📑  I’m currently working on [**wabots**]
 
   -🍁 I’m currently learning **Front-end Developing**
 
@@ -17,7 +17,7 @@
 
   -📬 How to reach me **akd.bd880@gmail.com**
 
-  -☇ Fun fact **Your brain is constantly eating itself**
+  -☠ Fun fact **Your brain is constantly eating itself**
 
 </p>
 <br><br>
