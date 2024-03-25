@@ -13,7 +13,7 @@
 
   -🐦 I’m looking to collaborate with WhatsApp-Bot
 
-  -📚 Ask me about **Web-Pages, Databases**
+  -📚 Ask me about **Web-Pages**
 
   -📬 How to reach me **akd.bd880@gmail.com**
 
