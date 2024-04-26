@@ -5,7 +5,7 @@
     <b>Profile Visits</b><br>
 <img align="middle" src="https://profile-counter.glitch.me/V-E-N-O-X/count.svg" />
 </p>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">I want to be a Developer</h3>
 
   -📑  I’m currently working on [**wabots**]
 
