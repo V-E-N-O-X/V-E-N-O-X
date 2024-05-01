@@ -11,7 +11,7 @@
 
   -🍁 I'm currently learning **Front-end Developing**
 
-  -🐦 I'm currently **16 years Old**
+  -🐦 I'm currently **16 years old**
 
   -📚 Ask me about **Web-Pages**
 
