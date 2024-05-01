@@ -7,11 +7,11 @@
 </p>
 <h3 align="center">I want to be a Developer</h3>
 
-  -📑  I’m currently working on [**wabots**]
+  -📑  I'm currently working on **Windows Optimisation Utility Tools**
 
-  -🍁 I’m currently learning **Front-end Developing**
+  -🍁 I'm currently learning **Front-end Developing**
 
-  -🐦 I’m looking to collaborate with WhatsApp-Bot
+  -🐦 I'm currently **16 years Old**
 
   -📚 Ask me about **Web-Pages**
 
